@@ -5,7 +5,7 @@
         "instruction": "Hello, who are you?"
     },
     "example_output": {
-        "outputs": "{'<s> ### System:\nA chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n\n### User:\nHello, who are you?\n\n### Assistant:\nI am a language model called Vicuna, and I was trained by Large Model Systems Organization (LMSYS).</s>'}"
+        "outputs": "{'<s> ### System:\nA chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n\n### User:\nHello, who are you?\n\n### Assistant:\nI am Vicuna, a language model trained by researchers from Large Model Systems Organization (LMSYS).</s>'}"
     },
     "version": "1"
 }
