@@ -1,5 +1,5 @@
 {
-    "name": "vicuna-7b",
+    "name": "vicuna-13b",
     "category": "",
     "example_input": {
         "instruction": "Hello, who are you?"
